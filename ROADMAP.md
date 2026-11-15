@@ -11,8 +11,8 @@
 | 2. Clean, reconcile, model | `sql/01`-`03`, `src/checks.py` | Done: 11 data checks passing; 99.8% of matchable spend crosswalked |
 | 3. Analyze | `sql/04_marts.sql` | Done: three findings |
 | 4. Forecast | `src/forecast.py` | Done: linear trend, back-test mean error 4.3% |
-| 5. Dashboard | `dashboard/index.html`, `outputs/marts/*.csv` | Done |
-| 6. Stakeholder package | `docs/02_executive_memo.md`, README | Done |
+| 5. Dashboard | `dashboard/index.html` (live on GitHub Pages), `outputs/marts/*.csv` | Done |
+| 6. Stakeholder package | `docs/02_executive_memo.md`, `docs/03_methodology.md`, README | Done |
 | 7. Share and reach out | LinkedIn post, Vizient outreach | Next |
 
 ## Phase 2. Clean, reconcile, model

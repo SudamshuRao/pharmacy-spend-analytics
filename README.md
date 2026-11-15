@@ -2,7 +2,9 @@
 
 An end-to-end analysis of Medicare Part D drug spend, written for a pharmacy leader: what drove five years of growth, where the savings are, and what 2026 looks like.
 
-**Read first:** [Executive memo](docs/02_executive_memo.md) · [Dashboard](dashboard/index.html) · [Scoping memo](docs/01_scoping_memo.md)
+**Live dashboard:** https://sudamshurao.github.io/pharmacy-spend-analytics/dashboard/
+
+**Read:** [Executive memo](docs/02_executive_memo.md) (results, 2 pages) · [Methodology](docs/03_methodology.md) (how every number was produced) · [Scoping memo](docs/01_scoping_memo.md) (problem framing)
 
 ![Dashboard](docs/img/dashboard.png)
 
@@ -50,6 +52,8 @@ python src/forecast.py   # forecast with back-test
 python src/export.py     # CSVs + dashboard data
 open dashboard/index.html
 ```
+
+The full step-by-step explanation, including formulas, check definitions and validation against published figures, is in [docs/03_methodology.md](docs/03_methodology.md).
 
 ## Data
 
