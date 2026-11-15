@@ -29,28 +29,26 @@ Work days follow the DA block (Sat to Tue), with the LinkedIn DA post on Thursda
 - Exit check: `python src/ingest.py` rebuilds the database from scratch on a clean machine.
 
 ## Phase 2. Clean, reconcile, model
-- Reshape Part D from wide (one column per year) to long (drug, year, spend, units, claims).
-- Keep the "Overall" manufacturer rows for drug-level totals and the per-manufacturer rows for brand vs generic analysis.
-- Collapse NADAC to one price per NDC per year; classify brand vs generic.
-- Build the crosswalk between Part D drug names and NADAC NDC descriptions. Report the match rate, the spend covered by matched drugs, and the unmatched cases.
-- Star schema: `dim_drug`, `dim_year`, `fct_partd_spend`, `fct_nadac_price`.
-- Data quality checks: totals reconcile to the source, no duplicate keys, outlier flags handled.
+- Done: Part D reshaped to drug x manufacturer x year; NADAC column-name drift fixed; 9 data checks passing.
+- Crosswalk, scoped by spend: 220 of 3,625 drugs make up 80% of 2024 spend, so match those (plus the full adalimumab family) instead of all drugs. Match Part D brand names to NADAC NDC descriptions.
+- Report coverage by spend, not by drug count. Target: at least 90% of in-scope spend matched; list the unmatched drugs and why.
+- Star schema: `dim_drug`, `fct_partd_spend`, `fct_nadac_price`, `xwalk_drug_ndc`.
 
-## Phase 3. Analyze
-- Spend growth split into price effect and volume effect, per drug and in total.
-- Concentration: share of spend in the top 1% and top 10% of drugs.
-- Fastest unit-price growth among high-spend drugs.
-- Savings scenarios: brand-to-generic and biosimilar switches (adalimumab and insulin as case studies), priced with NADAC.
+## Phase 3. Analyze (three findings for the memo)
+1. **Concentration and drivers.** 38 drugs make up half of 2024 spend. Split 2020 to 2024 growth into price effect and volume effect, overall and for the top drugs and classes.
+2. **Biosimilar opportunity (adalimumab).** Humira still carries most adalimumab spend while biosimilars cost far less per unit. Model savings at 25%, 50% and 75% conversion.
+3. **2026 negotiated prices.** Ten Part D drugs, several of them in the top 15 by spend, have Medicare negotiated prices effective January 1, 2026. Estimate the effect on their spend from 2024 volumes and compare with CMS's own estimate.
+- NADAC is used as the pharmacy acquisition-cost benchmark and to show 2025 price movement, a year past the end of the Part D data.
 
 ## Phase 4. Forecast
-- Forecast next-year spend for the top drug classes as a range, with a simple, explainable method.
-- Back-test on the last known year and report the error.
+- Forecast 2025 and 2026 spend for the top drug classes, with and without the negotiated-price effect, as a range.
+- Back-test on 2024 and report the error.
 
 ## Phase 5. Dashboard
 - Page 1: executive summary (total spend, growth, top drivers).
 - Page 2: spend drivers (price vs volume).
 - Page 3: savings opportunities.
-- Open decision: Power BI Desktop is Windows-only, so either a Windows VM or Tableau Public on the Mac.
+- Tool: Tableau Public. Power BI Desktop is Windows-only and this is built on a Mac; Tableau Public also gives a public link to share. The SQL models feed either tool.
 
 ## Phase 6. Stakeholder package
 - One-page executive memo: three findings, three recommendations, limitations.
