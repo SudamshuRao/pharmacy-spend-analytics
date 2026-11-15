@@ -60,6 +60,18 @@ CHECKS = {
     "nadac: prices are positive": """
         SELECT * FROM stg_nadac WHERE nadac_per_unit <= 0
     """,
+    # --- Crosswalk ---------------------------------------------------------
+    "xwalk: every in-scope drug has a coverage status": """
+        SELECT * FROM dim_drug_scope s
+        WHERE NOT EXISTS (SELECT 1 FROM rpt_xwalk_coverage r
+                          WHERE r.brand_name = s.brand_name AND r.generic_name = s.generic_name)
+    """,
+    "xwalk: >= 90% of the in-scope spend that NADAC carries is matched": """
+        SELECT sum(spend_2024) FILTER (WHERE status = 'matched')
+                 / sum(spend_2024) FILTER (WHERE status <> 'not_in_nadac') AS matched_share
+        FROM rpt_xwalk_coverage
+        HAVING matched_share < 0.90
+    """,
 }
 
 
