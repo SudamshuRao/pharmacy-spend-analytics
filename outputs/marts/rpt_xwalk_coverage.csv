@@ -1,0 +1,258 @@
+brand_name,generic_name,spend_2024,spend_rank,best_tier,n_ndcs,status
+Taltz Autoinjector,Ixekizumab,564471357.6,95,3,6,matched
+Januvia,Sitagliptin Phosphate,3807854661.8,12,1,13,matched
+Xiidra,Lifitegrast,505334180.32,106,1,3,matched
+Novolog Flexpen,Insulin Aspart,318913548.94,150,3,5,matched
+Tamsulosin HCl,Tamsulosin HCl,308387076.5,156,1,40,matched
+Linzess,Linaclotide,1981958629.2,25,1,3,matched
+Synjardy XR,Empagliflozin/Metformin HCl,320732965.54,148,1,8,matched
+Losartan Potassium,Losartan Potassium,355169185.3,138,1,139,matched
+Aripiprazole,Aripiprazole,245290113.89,189,1,224,matched
+Enbrel,Etanercept,632791430.87,82,1,4,matched
+Abiraterone Acetate,Abiraterone Acetate,692896307.56,74,1,40,matched
+Hadlima(Cf),Adalimumab-Bwwd,751584.37,2217,1,1,matched
+Skyrizi On-Body,Risankizumab-Rzaa,390580004.22,127,3,4,matched
+Skyrizi Pen,Risankizumab-Rzaa,1781294228.5,30,3,4,matched
+Tresiba Flextouch U-100,Insulin Degludec,825797918.13,57,3,3,matched
+Rybelsus,Semaglutide,1890082026.0,27,1,6,matched
+Advair HFA,Fluticasone Propion/Salmeterol,320587780.2,149,1,6,matched
+Spiriva Handihaler,Tiotropium Bromide,486261174.8,108,1,3,matched
+Dexlansoprazole Dr,Dexlansoprazole,220491966.55,206,1,12,matched
+Simlandi(Cf) Autoinjector,Adalimumab-Ryvk,528514.61,2356,3,3,matched
+Abilify Maintena,Aripiprazole,644233417.74,81,1,8,matched
+Rexulti,Brexpiprazole,861392149.79,56,1,6,matched
+Praluent Pen,Alirocumab,340584673.39,144,3,3,matched
+Trintellix,Vortioxetine Hydrobromide,392486138.2,126,1,3,matched
+Eliquis,Apixaban,20774929225.0,1,1,6,matched
+Trelegy Ellipta,Fluticasone/Umeclidin/Vilanter,5294401776.8,7,1,4,matched
+Adalimumab-Adbm(Cf) Pen,Adalimumab-Adbm,143408.33,2758,1,2,matched
+Incruse Ellipta,Umeclidinium Bromide,375858547.52,131,1,2,matched
+Farxiga,Dapagliflozin Propanediol,5290548963.4,8,1,5,matched
+Copaxone,Glatiramer Acetate,257157760.19,180,1,2,matched
+Zenpep,Lipase/Protease/Amylase,597436409.02,87,1,8,matched
+Stelara*,Ustekinumab,3378017374.1,15,1,2,matched
+Caplyta,Lumateperone Tosylate,268479293.41,172,1,5,matched
+Octagam,Immun Globg(IgG)/Malt/IgA Ov50,393231316.22,125,1,3,matched
+Prolia,Denosumab,771837558.17,63,1,2,matched
+Basaglar Kwikpen U-100,"Insulin Glargine,Hum.Rec.Anlog",664629407.56,78,3,2,matched
+Toujeo Solostar,"Insulin Glargine,Hum.Rec.Anlog",549974618.58,99,1,1,matched
+Vascepa,Icosapent Ethyl,724180333.53,68,1,2,matched
+Nurtec ODT,Rimegepant Sulfate,625230826.2,84,1,1,matched
+Restasis,Cyclosporine,1289753141.8,39,1,3,matched
+Forteo,Teriparatide,266352817.64,173,1,2,matched
+Tymlos,Abaloparatide,257643485.05,179,1,2,matched
+Humira(Cf) Pen Crohn'S-Uc-Hs,Adalimumab,59215904.35,540,1,1,matched
+Humira,Adalimumab,208905154.75,215,1,1,matched
+Hadlima Pushtouch,Adalimumab-Bwwd,735326.36,2230,1,1,matched
+Tagrisso,Osimertinib Mesylate,1627109177.4,34,0,0,not_in_nadac
+Adempas,Riociguat,694246753.36,73,0,0,not_in_nadac
+Hulio(Cf) Pen,Adalimumab-Fkjp,131907.95,2774,0,0,not_in_nadac
+Lenvima,Lenvatinib Mesylate,875642918.93,55,0,0,not_in_nadac
+Tasigna,Nilotinib HCl,426961765.33,119,0,0,not_in_nadac
+Nucala,Mepolizumab,317907428.14,151,0,0,not_in_nadac
+Xolair,Omalizumab,313118328.76,154,0,0,not_in_nadac
+Fasenra Pen,Benralizumab,231650348.23,199,0,0,not_in_nadac
+Adalimumab-Adaz(Cf),Adalimumab-Adaz,474286.85,2400,0,0,unmatched
+Radicava Ors,Edaravone,375705708.24,132,0,0,not_in_nadac
+Prolastin C,Alpha-1-Proteinase Inhibitor,228621845.21,201,0,0,not_in_nadac
+Hyrimoz Pen,Adalimumab-Adaz,100150.23,2831,0,0,unmatched
+Calquence,Acalabrutinib Maleate,1701974920.8,33,0,0,not_in_nadac
+Epidiolex,Cannabidiol (Cbd),207443287.44,217,0,0,not_in_nadac
+Opsumit,Macitentan,1231721758.3,40,0,0,not_in_nadac
+Venclexta,Venetoclax,941720712.9,52,0,0,not_in_nadac
+Shingrix,Varicella-Zoster Ge/As01b/PF,775597084.17,60,0,0,not_in_nadac
+Adalimumab-Fkjp(Cf),Adalimumab-Fkjp,31958.55,3108,0,0,not_in_nadac
+Gammaplex,Immun Glob G(IgG)/Gly/IgA 0-50,294837706.01,162,0,0,not_in_nadac
+Erleada,Apalutamide,1386301873.3,36,0,0,not_in_nadac
+Abrysvo,"Rsv Vacc, Pref A And Pref B/PF",467554856.86,110,0,0,not_in_nadac
+Camzyos,Mavacamten,290825666.61,164,0,0,not_in_nadac
+Benlysta*,Belimumab,216806703.67,209,0,0,not_in_nadac
+Acthar,Corticotropin,360057228.49,135,0,0,not_in_nadac
+Ultomiris,Ravulizumab-Cwvz,232936290.52,197,0,0,not_in_nadac
+Zejula,Niraparib Tosylate,224142912.76,204,0,0,not_in_nadac
+Cyltezo(Cf),Adalimumab-Adbm,5463778.47,1461,0,0,unmatched
+Lonsurf,Trifluridine/Tipiracil HCl,225915434.96,203,0,0,not_in_nadac
+Humalog Kwikpen U-200,Insulin Lispro,228025262.24,202,3,12,matched
+Janumet,Sitagliptin Phos/Metformin HCl,709178278.23,70,1,6,matched
+Premarin*,"Estrogens, Conjugated",254990017.73,183,1,9,matched
+Albuterol Sulfate HFA,Albuterol Sulfate,552635126.32,97,2,12,matched
+Cyclosporine*,Cyclosporine,305226352.35,158,1,46,matched
+Fluticasone-Salmeterol,Fluticasone Propion/Salmeterol,409313172.33,122,1,15,matched
+Breztri Aerosphere,Budesonide/Glycopyr/Formoterol,1130105761.4,44,1,2,matched
+Estradiol*,Estradiol,218158281.52,208,1,171,matched
+Atorvastatin Calcium,Atorvastatin Calcium,756487578.84,65,2,322,matched
+Amlodipine Besylate,Amlodipine Besylate,315689104.52,152,1,123,matched
+Lisinopril,Lisinopril,252873551.41,184,1,202,matched
+Kerendia,Finerenone,396302773.23,124,1,4,matched
+Invokana,Canagliflozin,272062235.32,168,1,4,matched
+Briviact*,Brivaracetam,219770910.9,207,1,9,matched
+Mesalamine*,Mesalamine,204440862.28,220,1,59,matched
+Ezetimibe,Ezetimibe,208731153.2,216,1,45,matched
+Dupixent Syringe,Dupilumab,687118572.15,75,3,4,matched
+Dupixent Pen,Dupilumab,1804653435.9,29,3,4,matched
+Humira(Cf) Pen,Adalimumab,4328698864.2,9,1,3,matched
+Gammagard Liquid,Immun Glob G(IgG)/Gly/IgA Ov50,580810193.41,92,1,4,matched
+Juluca,Dolutegravir/Rilpivirine,415220184.76,120,1,1,matched
+Oxycontin,Oxycodone HCl,337754322.71,145,1,14,matched
+Pantoprazole Sodium*,Pantoprazole Sodium,320865497.22,147,1,15,matched
+Emgality Pen,Galcanezumab-Gnlm,258366637.21,178,3,5,matched
+Cosentyx Sensoready Pen,Secukinumab,248289604.06,186,3,5,matched
+Lokelma,Sodium Zirconium Cyclosilicate,239002704.37,194,1,6,matched
+Jardiance,Empagliflozin,11435997421.0,3,1,6,matched
+Rytary,Carbidopa/Levodopa,271784313.29,169,1,4,matched
+Adalimumab-Aacf(Cf) Pen (2 Pk),Adalimumab-Aacf,818540.17,2196,1,1,matched
+Aristada,Aripiprazole Lauroxil,269076004.88,171,1,5,matched
+Teriparatide,Teriparatide,212620906.39,211,1,5,matched
+Brilinta,Ticagrelor,685497436.89,76,1,3,matched
+Cyltezo(Cf) Pen Crohn'S-Uc-Hs,Adalimumab-Adbm,955713.34,2154,3,1,matched
+Nuplazid,Pimavanserin Tartrate,657826492.55,79,1,1,matched
+Xeljanz XR,Tofacitinib Citrate,589794982.59,90,1,1,matched
+Descovy,Emtricitabine/Tenofov Alafenam,544696049.72,101,1,3,matched
+Tradjenta,Linagliptin,1127598446.4,45,1,3,matched
+Rinvoq,Upadacitinib,1385459851.4,37,1,3,matched
+Invega Trinza,Paliperidone Palmitate,549801573.52,100,1,4,matched
+Gammaked,Immune Globul G/Gly/IgA Avg 46,270030395.54,170,1,2,matched
+Symbicort,Budesonide/Formoterol Fumarate,597805783.11,86,1,4,matched
+Tivicay,Dolutegravir Sodium,629400835.91,83,1,1,matched
+Gemtesa,Vibegron,945088935.3,51,1,2,matched
+Lantus Solostar,"Insulin Glargine,Hum.Rec.Anlog",699132485.95,71,1,2,matched
+Symtuza,Darunavir/Cob/Emtri/Tenof Alaf,448466476.63,114,1,1,matched
+Cosentyx Sensoready (2 Pens),Secukinumab,817580073.6,59,1,2,matched
+Adalimumab-Adaz(Cf) Pen,Adalimumab-Adaz,4685236.59,1514,1,1,matched
+Triumeq,Abacavir/Dolutegravir/Lamivudi,565891468.38,94,1,1,matched
+Privigen,Immun Glob G(IgG)/Pro/IgA 0-50,493878771.45,107,0,0,not_in_nadac
+Welireg,Belzutifan,205460495.55,219,0,0,not_in_nadac
+Trikafta,Elexacaftor/Tezacaftor/IVacaft,724709204.3,67,0,0,not_in_nadac
+Ojjaara,Momelotinib Dihydrochloride,341692381.97,143,0,0,not_in_nadac
+Alecensa,Alectinib HCl,246703793.89,188,0,0,not_in_nadac
+Mekinist,Trametinib Dimethyl Sulfoxide,207005040.79,218,0,0,not_in_nadac
+Ibrance,Palbociclib,2035022061.3,24,0,0,not_in_nadac
+Tibsovo,IVosidenib,265234784.59,174,0,0,not_in_nadac
+Ninlaro,Ixazomib Citrate,272703342.48,167,0,0,not_in_nadac
+Rezurock,Belumosudil Mesylate,242932266.01,191,0,0,not_in_nadac
+Lenalidomide,Lenalidomide,2640854799.8,17,0,0,not_in_nadac
+Adalimumab-Aaty(Cf) Autoinj(2),Adalimumab-Aaty,16592.02,3234,0,0,not_in_nadac
+Adalimumab-Adbm(Cf),Adalimumab-Adbm,180224.65,2703,0,0,unmatched
+Bosulif,Bosutinib,235311822.75,196,0,0,not_in_nadac
+Hyrimoz(Cf),Adalimumab-Adaz,965139.29,2148,0,0,unmatched
+Imbruvica,Ibrutinib,2266252031.7,20,0,0,not_in_nadac
+Orenitram ER,Treprostinil Diolamine,230423098.38,200,0,0,not_in_nadac
+Adalimumab-Adbm(Cf)pen,Adalimumab-Adbm,658269.54,2285,0,0,unmatched
+Mounjaro,Tirzepatide,6336942640.7,4,1,6,matched
+Lumigan,Bimatoprost,647209310.14,80,1,3,matched
+Ubrelvy,Ubrogepant,429537897.96,118,1,5,matched
+Humira(Cf) Pen Psor-Uv-Adol Hs,Adalimumab,20737458.22,936,3,6,matched
+Kisqali,Ribociclib Succinate,775493707.49,61,1,6,matched
+Ozempic,Semaglutide,12970296347.0,2,1,9,matched
+Duloxetine HCl,Duloxetine HCl,308828614.06,155,1,127,matched
+Levothyroxine Sodium*,Levothyroxine Sodium,464220464.51,111,2,343,matched
+Omeprazole,Omeprazole,366738344.22,134,1,145,matched
+Rosuvastatin Calcium,Rosuvastatin Calcium,436599887.8,117,1,175,matched
+Metoprolol Succinate,Metoprolol Succinate,455971082.96,112,2,313,matched
+Gabapentin,Gabapentin,544154575.11,102,1,337,matched
+Diclofenac Sodium*,Diclofenac Sodium,341799844.43,141,1,23,matched
+Entresto,Sacubitril/Valsartan,4020321686.4,11,1,7,matched
+Breo Ellipta,Fluticasone/Vilanterol,1360528640.6,38,1,5,matched
+Xtampza ER,Oxycodone Myristate,232750636.64,198,1,5,matched
+Enbrel Sureclick,Etanercept,2337152869.1,18,3,4,matched
+Toujeo Max Solostar,"Insulin Glargine,Hum.Rec.Anlog",561185695.39,96,3,2,matched
+Cosentyx Unoready Pen,Secukinumab,377859692.85,130,3,5,matched
+Cyltezo(Cf) Pen,Adalimumab-Adbm,52665521.69,581,1,1,matched
+Epclusa,Sofosbuvir/Velpatasvir,758041570.23,64,1,1,matched
+Invega Sustenna,Paliperidone Palmitate,1878155857.4,28,1,5,matched
+Austedo,Deutetrabenazine,1066901470.5,46,1,3,matched
+Bydureon Bcise,Exenatide Microspheres,215354678.45,210,1,1,matched
+Wegovy,Semaglutide,301283291.4,160,1,5,matched
+Hadlima(Cf) Pushtouch,Adalimumab-Bwwd,4915528.61,1497,1,1,matched
+Spiriva Respimat,Tiotropium Bromide,877208066.09,54,1,2,matched
+Actemra Actpen,Tocilizumab,236144100.12,195,1,1,matched
+Genvoya,Elviteg/Cob/Emtri/Tenof Alafen,552006675.06,98,1,1,matched
+Multaq,Dronedarone HCl,414751255.09,121,1,1,matched
+Prezcobix,Darunavir/Cobicistat,255398074.6,182,1,1,matched
+Odefsey,Emtricitab/Rilpiviri/Tenof Ala,375477600.43,133,1,1,matched
+Orencia Clickject,Abatacept,570184676.16,93,1,1,matched
+Nubeqa,Darolutamide,998066130.12,49,0,0,not_in_nadac
+Revlimid,Lenalidomide,4179511486.3,10,0,0,not_in_nadac
+Korlym,Mifepristone,341766724.98,142,0,0,not_in_nadac
+Adalimumab-Ryvk(Cf) Autoinject,Adalimumab-Ryvk,45088.99,3016,0,0,not_in_nadac
+Jakafi,Ruxolitinib Phosphate,2082741189.3,23,0,0,not_in_nadac
+Tyvaso Dpi,Treprostinil,728752454.61,66,0,0,not_in_nadac
+Ofev,Nintedanib Esylate,2086398978.9,22,0,0,not_in_nadac
+Yuflyma(Cf) Autoinjector,Adalimumab-Aaty,5802690.22,1440,0,0,not_in_nadac
+Vyndamax,Tafamidis,2830811857.1,16,0,0,not_in_nadac
+Cabenuva,Cabotegravir/Rilpivirine,211613824.62,213,0,0,not_in_nadac
+Hyrimoz(Cf) Pen,Adalimumab-Adaz,7940327.72,1303,0,0,unmatched
+Hadlima,Adalimumab-Bwwd,294922.22,2557,0,0,unmatched
+Pomalyst,Pomalidomide,2150231814.6,21,0,0,not_in_nadac
+Takhzyro,Lanadelumab-Flyo,223004902.8,205,0,0,not_in_nadac
+Krystexxa,PEGloticase,212349149.7,212,0,0,not_in_nadac
+Amjevita(Cf) Autoinjector,Adalimumab-Atto,36873839.88,705,0,0,not_in_nadac
+Yuflyma(Cf) Autoinject (2 Pck),Adalimumab-Aaty,22350036.51,908,0,0,not_in_nadac
+Cabometyx,Cabozantinib S-Malate,1216725023.0,41,0,0,not_in_nadac
+Hyrimoz(Cf) Pen Crohn-Uc Start,Adalimumab-Adaz,382193.5,2482,0,0,unmatched
+Uptravi*,Selexipag,908772074.01,53,0,0,not_in_nadac
+Idacio(Cf) (2 Pack),Adalimumab-Aacf,265266.99,2585,0,0,unmatched
+Strensiq,Asfotase Alfa,345971143.7,140,0,0,not_in_nadac
+Promacta,Eltrombopag Olamine,672379160.6,77,0,0,not_in_nadac
+Humalog Kwikpen U-100,Insulin Lispro,334334171.91,146,3,12,matched
+Humulin R U-500 Kwikpen,"Insulin Regular, Human",239615579.81,193,3,8,matched
+Janumet XR,Sitagliptin Phos/Metformin HCl,357969899.97,136,1,9,matched
+Creon,Lipase/Protease/Amylase,1493447099.7,35,1,14,matched
+Synthroid,Levothyroxine Sodium,348092808.82,139,1,30,matched
+Potassium Chloride*,Potassium Chloride,290918304.08,163,1,20,matched
+Hydrocodone-Acetaminophen,Hydrocodone/Acetaminophen,386982896.58,129,1,173,matched
+Oxycodone-Acetaminophen,Oxycodone HCl/Acetaminophen,243302306.75,190,1,99,matched
+Gamunex-C,Immune Globul G/Gly/IgA Avg 46,520791984.65,104,1,2,matched
+Xarelto,Rivaroxaban,6232231839.7,5,1,19,matched
+Tremfya*,Guselkumab,618784543.17,85,1,4,matched
+Vraylar,Cariprazine HCl,1135973310.0,43,1,8,matched
+Ingrezza,Valbenazine Tosylate,1956616318.8,26,1,3,matched
+Humira Pen,Adalimumab,697405207.41,72,1,3,matched
+Qulipta,Atogepant,260307143.86,176,1,3,matched
+Tresiba Flextouch U-200,Insulin Degludec,973884134.55,50,3,3,matched
+Fiasp Flextouch,Insulin Aspart (Niacinamide),289492211.15,165,3,4,matched
+Enbrel Mini,Etanercept,255623575.94,181,3,4,matched
+Skyrizi*,Risankizumab-Rzaa,315590527.52,153,1,4,matched
+Dovato,Dolutegravir Sodium/Lamivudine,541076552.5,103,1,2,matched
+Biktarvy,Bictegrav/Emtricit/Tenofov Ala,3456061331.1,13,1,3,matched
+Trulicity,Dulaglutide,5454134725.1,6,1,4,matched
+Sprycel,Dasatinib,518330507.46,105,1,2,matched
+Cyltezo(Cf) Pen Psoriasis-Uv,Adalimumab-Adbm,546919.67,2341,3,1,matched
+Austedo XR,Deutetrabenazine,597150052.9,88,1,9,matched
+Repatha Sureclick,Evolocumab,1709589708.1,32,3,5,matched
+Velphoro,Sucroferric Oxyhydroxide,438436195.16,116,1,1,matched
+Xifaxan,Rifaximin,1158111408.6,42,1,3,matched
+Humira(Cf),Adalimumab,400900510.75,123,1,2,matched
+Budesonide-Formoterol Fumarate,Budesonide/Formoterol Fumarate,248240786.74,187,2,2,matched
+Stiolto Respimat,Tiotropium Br/Olodaterol HCl,448588557.35,113,1,1,matched
+Cimzia (2 Pack),Certolizumab PEGol,263967827.66,175,1,2,matched
+Aimovig Autoinjector,Erenumab-Aooe,305625176.63,157,3,2,matched
+Myrbetriq,Mirabegron,2297067833.5,19,1,5,matched
+Otezla,Apremilast,1045029750.9,48,1,3,matched
+Xeljanz,Tofacitinib Citrate,273837700.04,166,1,2,matched
+Kesimpta Pen,Ofatumumab,582607939.91,91,3,1,matched
+Combivent Respimat,Ipratropium/Albuterol Sulfate,387905151.22,128,1,1,matched
+Soliqua 100-33,Insulin Glargine/Lixisenatide,300185496.2,161,3,1,matched
+Anoro Ellipta,Umeclidinium Brm/Vilanterol Tr,819257997.62,58,1,2,matched
+Yusimry(Cf) Pen,Adalimumab-Aqvh,650428.8,2289,3,2,matched
+Yuflyma(Cf) (2 Pack),Adalimumab-Aaty,2746629.83,1743,0,0,not_in_nadac
+Vyndaqel,Tafamidis Meglumine,303575850.25,159,0,0,not_in_nadac
+Adalimumab-Fkjp(Cf) Pen,Adalimumab-Fkjp,182096.39,2699,0,0,not_in_nadac
+Orgovyx,Relugolix,484308516.16,109,0,0,not_in_nadac
+Oxervate,Cenegermin-Bkbj,714549320.33,69,0,0,not_in_nadac
+Verzenio,Abemaciclib,1056757309.4,47,0,0,not_in_nadac
+Orserdu,Elacestrant HCl,258846197.93,177,0,0,not_in_nadac
+Xywav,"Sodium,Calcium,Mag,Pot Oxybate",210520764.36,214,0,0,not_in_nadac
+Idacio(Cf) Pen (2 Pack),Adalimumab-Aacf,2960847.97,1713,0,0,unmatched
+Hulio(Cf),Adalimumab-Fkjp,74814.12,2901,0,0,not_in_nadac
+Inlyta,Axitinib,438904955.79,115,0,0,not_in_nadac
+Gattex,Teduglutide,357634244.51,137,0,0,not_in_nadac
+Arexvy,Rsvpref3 Antigen/As01e/PF,774198317.54,62,0,0,not_in_nadac
+Omnipod 5 Dexg7g6 Pods (Gen 5),"Insulin Pump Cart,Auto,Bt,G6/7",251629031.84,185,0,0,unmatched
+Xtandi,Enzalutamide,3400769228.6,14,0,0,not_in_nadac
+Brukinsa,Zanubrutinib,1724363413.8,31,0,0,not_in_nadac
+Lynparza,Olaparib,593929897.65,89,0,0,not_in_nadac
+Amjevita(Cf),Adalimumab-Atto,6306007.99,1407,0,0,not_in_nadac
+Vyvgart,Efgartigimod Alfa-Fcab,240798682.07,192,0,0,not_in_nadac
+Hyrimoz(Cf) Pen Psoriasis,Adalimumab-Adaz,282698.56,2566,0,0,unmatched
+Yuflyma(Cf) Ai Crohn'S-Uc-Hs,Adalimumab-Aaty,135505.76,2768,0,0,not_in_nadac
