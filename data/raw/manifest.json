@@ -1,0 +1,26 @@
+{
+  "loaded_at_utc": "2026-11-15T00:22:24+00:00",
+  "partd_dataset_id": "7e0b4365-fd63-4a29-8f5e-e0ac9f66a81b",
+  "files": {
+    "partd_spending_by_drug.csv": {
+      "bytes": 5326787,
+      "sha256": "a47f20365c09660e1635094e60e6cdeefc6cf7f8fd649759b71af7d0aaba27df"
+    },
+    "nadac_2023.csv": {
+      "bytes": 118878275,
+      "sha256": "9b39412ebacce6fce244c7ca79b31c0d1318115b084492567dd2033eb6b0d5cc"
+    },
+    "nadac_2024.csv": {
+      "bytes": 129680716,
+      "sha256": "f9ed76c6c40402c061052f362e2ffaf0fe287b949106ba4948bd90635a8f4491"
+    },
+    "nadac_2025.csv": {
+      "bytes": 139475442,
+      "sha256": "317c0387d2005b18ade760029bf61b3ff5a3aab74ef96e322d319432c410ed80"
+    }
+  },
+  "row_counts": {
+    "raw_partd_spending": 14536,
+    "raw_nadac": 4482736
+  }
+}
