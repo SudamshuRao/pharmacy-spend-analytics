@@ -20,6 +20,7 @@ Spend figures are gross of manufacturer rebates, which CMS does not publish.
 python -m venv .venv && source .venv/bin/activate
 pip install -r requirements.txt
 python src/ingest.py        # downloads raw data and builds data/pharmacy.duckdb
+python src/build.py         # builds staged tables from sql/ and runs data checks
 ```
 
 ## Repo layout

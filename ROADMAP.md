@@ -10,7 +10,7 @@ Work days follow the DA block (Sat to Tue), with the LinkedIn DA post on Thursda
 |---|---|---|---|
 | 0. Scope the problem | Nov 14 to 15 | `docs/01_scoping_memo.md` | In progress |
 | 1. Acquire the data | Nov 15 to 17 | `src/ingest.py`, raw DuckDB tables, data manifest | Code written, needs first run |
-| 2. Clean, reconcile, model | Nov 21 to 24 | `sql/` staging + star schema, reconciliation report | Not started |
+| 2. Clean, reconcile, model | Nov 21 to 24 | `sql/` staging + star schema, reconciliation report | In progress: staging done, 9 data checks passing; crosswalk next |
 | 3. Analyze | Nov 28 to Dec 1 | Spend drivers, concentration, savings notebook | Not started |
 | 4. Forecast | Dec 1 to 2 | Next-year spend range for top drug classes | Not started |
 | 5. Dashboard | Dec 5 to 8 | 3-page dashboard | Not started |
